@@ -22,7 +22,7 @@ Instead of vague prompts, you get precise specifications where every element—l
 First, add the marketplace to Claude Code:
 
 ```bash
-/plugin marketplace add nano-banana@github:jawhnycooke/claude-code-nano-banana
+/plugin marketplace add https://github.com/jawhnycooke/claude-code-nano-banana.git
 ```
 
 Then install the plugin:
