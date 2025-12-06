@@ -17,6 +17,20 @@ Instead of vague prompts, you get precise specifications where every element—l
 - **Data Visualizations** - Charts, graphs with accurate data
 - **Social Graphics** - Platform-specific social media content
 
+## Installation
+
+First, add the marketplace to Claude Code:
+
+```bash
+/plugin marketplace add nano-banana@github:jawhnycooke/claude-code-nano-banana
+```
+
+Then install the plugin:
+
+```bash
+/plugin install nano-banana
+```
+
 ## Usage
 
 Invoke the command with a rough description:

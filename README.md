@@ -19,8 +19,16 @@ Instead of writing vague prompts and hoping for the best, the translator helps y
 
 ### From GitHub (Recommended)
 
+First, add the marketplace to Claude Code:
+
 ```bash
-/plugin install nano-banana@github:jawhnycooke/claude-code-nano-banana
+/plugin marketplace add nano-banana@github:jawhnycooke/claude-code-nano-banana
+```
+
+Then install the plugin:
+
+```bash
+/plugin install nano-banana
 ```
 
 This installs the plugin directly from this repository.
