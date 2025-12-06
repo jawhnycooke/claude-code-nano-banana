@@ -65,6 +65,7 @@ See the full tutorial: [Dials, Not Dice: A Precision Prompting Guide for Nano Ba
 ## Author
 
 Jawhny Cooke
+Contact: plugins@jawhnycooke.ai
 
 ## Version
 

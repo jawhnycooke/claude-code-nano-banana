@@ -41,6 +41,10 @@ See the full tutorial: [Dials, Not Dice: A Precision Prompting Guide for Nano Ba
 
 The `examples/vinyl-record-tutorial/` folder contains the JSON files from the tutorial so you can follow along.
 
+## Contact
+
+For questions, issues, or contributions, contact: plugins@jawhnycooke.ai
+
 ## License
 
 MIT
