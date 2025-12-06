@@ -22,7 +22,7 @@ Instead of writing vague prompts and hoping for the best, the translator helps y
 First, add the marketplace to Claude Code:
 
 ```bash
-/plugin marketplace add https://github.com/jawhnycooke/claude-code-nano-banana.git
+/plugin marketplace add https://github.com/jawhnycooke/claude-code-nano-banana
 ```
 
 Then install the plugin:
