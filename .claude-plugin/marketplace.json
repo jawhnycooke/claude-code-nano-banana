@@ -1,0 +1,17 @@
+{
+  "name": "claude-code-nano-banana",
+  "owner": {
+    "name": "Jawhny Cooke",
+    "email": ""
+  },
+  "metadata": {
+    "description": "JSON Prompt Translator for Nano Banana Pro - Convert natural language to structured image generation specs",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "nano-banana",
+      "source": "./nano-banana"
+    }
+  ]
+}

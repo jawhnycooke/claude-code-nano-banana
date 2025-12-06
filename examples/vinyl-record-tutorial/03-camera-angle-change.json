@@ -1,0 +1,84 @@
+{
+  "marketing_image": {
+    "meta": {
+      "spec_version": "1.0.0",
+      "title": "Vintage Vinyl Record Hero Shot",
+      "campaign": "dials_not_dice_tutorial",
+      "brand_name": "Midnight Sessions",
+      "usage_context": "web"
+    },
+    "subject": {
+      "type": "vinyl_record",
+      "name": "12-inch LP Record",
+      "variant": "Classic Black Vinyl",
+      "physical_properties": {
+        "size": "12 inch diameter",
+        "dimensions": "standard LP with gatefold sleeve partially visible",
+        "finish": "glossy grooves with matte label"
+      }
+    },
+    "props": {
+      "foreground": [
+        {
+          "type": "album_sleeve",
+          "count": 1,
+          "position": "behind_left",
+          "notes": "gatefold sleeve angled behind the record, abstract geometric artwork in deep blues and gold visible"
+        }
+      ],
+      "midground": [
+        {
+          "type": "dust_particles",
+          "count": null,
+          "position": "floating_in_light_beam",
+          "notes": "subtle dust particles catching the side light, adds atmosphere and vintage feel"
+        }
+      ],
+      "background": []
+    },
+    "environment": {
+      "surface": {
+        "material": "dark_wood",
+        "reflection_strength": 0.4
+      },
+      "background": {
+        "color": "#1a1a1a",
+        "texture": "subtle_grain",
+        "effect": "vignette_soft"
+      },
+      "atmosphere": {
+        "mood": "nostalgic, intimate, warm analog warmth",
+        "keywords": ["vintage", "audiophile", "moody", "collectible", "warm"]
+      }
+    },
+    "camera": {
+      "angle": "top_down",
+      "framing": "medium_close",
+      "focal_length_mm": 85,
+      "depth_of_field": "medium"
+    },
+    "lighting": {
+      "key_light_direction": "right",
+      "key_light_intensity": "high",
+      "fill_light_direction": "left",
+      "fill_light_intensity": "very_low",
+      "rim_light": true,
+      "color_temperature": "warm"
+    },
+    "brand": {
+      "logo_asset": null,
+      "primary_colors": ["#1a1a1a", "#c9a227", "#2c3e50"],
+      "must_match_assets": [],
+      "forbidden_changes": [
+        "do_not_change_vinyl_black_color",
+        "do_not_add_text_overlays"
+      ]
+    },
+    "controls": {
+      "lock_subject_geometry": true,
+      "lock_logo_and_label": false,
+      "allow_background_variation": false,
+      "allow_prop_relayout": "small_only"
+    }
+  }
+}
