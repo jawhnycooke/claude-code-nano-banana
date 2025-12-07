@@ -28,8 +28,14 @@ First, add the marketplace to Claude Code:
 Then install the plugin:
 
 ```bash
-/plugin install nano-banana
+/plugin
 ```
+Follow these steps:
+1. Select `1. Browse and install plugins`
+2. Select marketplace `claude-code-nano-banana`
+3. Press the `Space bar` to select `nano-banana`
+4. Press `i` to install
+5. `/exit` Claude code and restart
 
 This installs the plugin directly from this repository.
 

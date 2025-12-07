@@ -1,0 +1,107 @@
+{
+  "marketing_image": {
+    "meta": {
+      "spec_version": "1.0.0",
+      "title": "Joy and Pain Vinyl Product Shot",
+      "campaign": "vinyl_collection",
+      "brand_name": null,
+      "usage_context": "web"
+    },
+    "subject": {
+      "type": "vinyl_record",
+      "name": "Joy and Pain",
+      "variant": "12-inch LP",
+      "physical_properties": {
+        "diameter_inches": 12,
+        "material": "black vinyl",
+        "finish": "glossy grooves with matte label"
+      },
+      "album_art": {
+        "genre": "R&B / Soul",
+        "era": "1970s",
+        "description": "Woman with large afro, warm color palette, soulful expression",
+        "dominant_colors": ["burnt orange", "golden yellow", "deep brown", "cream"]
+      }
+    },
+    "props": {
+      "foreground": [
+        {
+          "type": "whiskey_glass",
+          "count": 1,
+          "position": "front_right",
+          "notes": "lowball glass, amber liquid, catching candlelight, slight condensation"
+        }
+      ],
+      "midground": [
+        {
+          "type": "album_sleeve",
+          "count": 1,
+          "position": "behind_left",
+          "notes": "gatefold sleeve leaning at angle, woman with afro artwork visible, warm 70s color palette"
+        },
+        {
+          "type": "candle",
+          "count": 1,
+          "position": "back_left",
+          "notes": "lit pillar candle, warm flickering glow, primary light source, wax drips for texture"
+        }
+      ],
+      "background": []
+    },
+    "environment": {
+      "surface": {
+        "material": "velvet",
+        "color": "#2D1B1B",
+        "texture": "deep burgundy crushed velvet, rich pile catching light"
+      },
+      "background": {
+        "color": "#0A0606",
+        "texture": "fabric_folds",
+        "effect": "deep_shadow_falloff"
+      },
+      "atmosphere": {
+        "mood": "intimate, nostalgic, late-night listening session",
+        "keywords": ["warm", "soulful", "analog", "vintage", "contemplative", "cozy"]
+      }
+    },
+    "camera": {
+      "angle": "low_angle",
+      "framing": "medium",
+      "focal_length_mm": 35,
+      "depth_of_field": "shallow",
+      "notes": "looking up at record, emphasizing presence and importance, sleeve soft in background"
+    },
+    "lighting": {
+      "key_light_direction": "back_left",
+      "key_light_intensity": "very_low",
+      "key_light_source": "practical_candle",
+      "fill_light_direction": "ambient_only",
+      "fill_light_intensity": "very_low",
+      "rim_light": true,
+      "rim_light_notes": "subtle warm edge on vinyl from candle",
+      "color_temperature": "very_warm",
+      "color_temp_kelvin": 2200,
+      "notes": "candlelit atmosphere, deep shadows, warm orange glow on surfaces, vinyl grooves catching flicker"
+    },
+    "brand": {
+      "logo_asset": null,
+      "primary_colors": ["#D4722C", "#F4B942", "#3D2314", "#F5E6D3"],
+      "must_match_assets": [],
+      "forbidden_changes": [
+        "do_not_change_album_artwork",
+        "do_not_modernize_aesthetic"
+      ]
+    },
+    "controls": {
+      "lock_subject_geometry": true,
+      "lock_logo_and_label": true,
+      "allow_background_variation": true,
+      "allow_prop_relayout": "small_only"
+    },
+    "style_reference": {
+      "era": "1970s",
+      "aesthetic": "analog warmth, film grain acceptable, Rembrandt lighting influence",
+      "avoid": ["harsh lighting", "cool tones", "modern/digital feel", "overexposure"]
+    }
+  }
+}
