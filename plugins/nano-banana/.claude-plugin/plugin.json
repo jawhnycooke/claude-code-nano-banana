@@ -6,6 +6,5 @@
     "email": ""
   },
   "version": "1.0.0",
-  "keywords": ["nano-banana", "gemini", "image-generation", "json", "prompting"],
-  "category": "productivity"
+  "keywords": ["nano-banana", "gemini", "image-generation", "json", "prompting"]
 }
